@@ -1,0 +1,2 @@
+# AdvertisementPresent
+应用从后台进入前台时显示广告页
